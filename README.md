@@ -6,10 +6,10 @@ The primary objective of this analysis is to identify the key factors contributi
 ---
 
 ### 2. Data Preparation
-- **Handling Missing Values**:
+#### **Handling Missing Values**:
   - Numerical columns were imputed using the mean, while categorical columns with missing values were replaced with the mode or a placeholder category ("Unknown").
 
-- **Feature Encoding**:
+#### **Feature Encoding**:
   - Categorical variables were encoded into numerical representations using label encoding, ensuring that numerically categorical variables retained their categorical meaning.
 
 ---
