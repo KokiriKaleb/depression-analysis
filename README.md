@@ -1,4 +1,3 @@
-![Education vs. Age Box Plot](images/Age_Distribution_by_Education_Level.png)
 # Depression Analysis and Prediction
 
 ### 1\. Introduction
@@ -53,8 +52,6 @@ The primary objective of this project is to identify key factors contributing to
   - Features like **Gender** and **Family History of Mental Illness** showed surprisingly minimal statistical association in this dataset.
     ![Feature Importance from Logistic Regression](images/Feature_Importance_from_Logistic_Regression.png)
 ### 5\. Predictive Modeling
-
-This section summarizes the results of a machine learning model developed to predict depression. The model was optimized using `GridSearchCV` to find the most effective parameters.
 
 #### **Model Architecture and Pipeline**
 
